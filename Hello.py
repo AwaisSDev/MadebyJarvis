@@ -1,11 +1,7 @@
-# Project Description: prints the name entered by user and say hello to him
+# Project Description: prints sum of 50 and 200
 # Write code only
 
-# main.py
-
-# Get the user's name
-name = input("Please enter your name: ")
-
-# Print a greeting message
-print(f"Hello, {name}! Nice to meet you.")
-python main.py
+sum = 50 + 200
+print(sum)
+total = 50 + 200
+print(total)
