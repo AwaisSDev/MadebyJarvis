@@ -18,5 +18,3 @@ if __name__ == "__main__":
     number = 5
     result = factorial(number)
     print(f"The factorial of {number} is {result}.")
-python factorial.py
-The factorial of 5 is 120.
